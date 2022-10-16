@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ... neuroscience research 🧠 using neuronal networks cultured on thousands of microelectrodes.
 - 🌱 I’m currently learning ... data analysis / visualization (+ML/DL), web-programming (Vue, Typescript, Javascript)
-- 💁‍♂️ In my free time ... I like to read books 📚 (philosophy, arts & technology, etc.), cook pasta 🍝, drink coffee ☕️, and play music 🎶.
+- 💁‍♂️ In my free time ... I like to read books 📚 (philosophy, arts, technology, etc.), cook pasta 🍝, drink coffee ☕️, and play music 🎶.
 - ⚡ Fun fact ... I used to play (bass/vocal) in a heavy metal band 🎸
 
 <!--
